@@ -1,0 +1,12 @@
+{
+	"name": "hexo-tag-linkedin-learning",
+	"description": "A plugin for the Hexo static site generator to add support for a LinkedIn Learning embedded course tag",
+	"keywords": ["hexo", "tag", "plugin"],
+	"homepage": "https://alphageek.com.au/hexo-tag-linkedin-learning",
+	"version": "0.1.0",
+	"main": "index",
+	"author": "Michael Lambert (https://alphageek.com.au)",
+	"dependencies": {
+		"parse-key-value": "^1.0.0"
+	}
+}
