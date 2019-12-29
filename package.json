@@ -1,5 +1,5 @@
 {
-	"name": "hexo-tag-linkedin-learning",
+	"name": "@nibynool/hexo-tag-linkedin-learning",
 	"description": "A plugin for the Hexo static site generator to add support for a LinkedIn Learning embedded course tag",
 	"keywords": ["hexo", "tag", "plugin"],
 	"homepage": "https://alphageek.com.au/hexo-tag-linkedin-learning",
