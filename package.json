@@ -2,10 +2,11 @@
 	"name": "@nibynool/hexo-tag-linkedin-learning",
 	"description": "A plugin for the Hexo static site generator to add support for a LinkedIn Learning embedded course tag",
 	"keywords": ["hexo", "tag", "plugin"],
-	"homepage": "https://alphageek.com.au/hexo-tag-linkedin-learning",
+	"homepage": "https://software.alphageek.com.au/hexo/tag-linkedinlearning",
 	"version": "0.1.0",
-	"main": "index",
+	"main": "index.js",
 	"author": "Michael Lambert (https://alphageek.com.au)",
+	"license": "MIT",
 	"dependencies": {
 		"parse-key-value": "^1.0.0"
 	}
